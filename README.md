@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🌟
 
 <!--
 **eli099/eli099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a full-stack software engineer based in the UK
+- 🌱 I’m currently learning React
+- 📫 How to reach me: **hello@eliottmckenzie.dev**
+- 🗒 I'm planning a new version of [Aesthetic Catalogue](https://github.com/eli099/eli099/)
+- ⚡ Current obsessions:
+  * 3D modelling & animation with Blender (and Python ✨)
+  * Japanese language
