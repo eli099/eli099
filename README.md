@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a full-stack software engineer based in the UK
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: **hello@eliottmckenzie.dev**
-- 🗒 I'm planning a new version of [Aesthetic Catalogue](https://github.com/eli099/Aesthetic-Catalogue)
+- 🗒 I'm planning a new version of **[Aesthetic Catalogue](https://github.com/eli099/Aesthetic-Catalogue)** (Django/React App)
 - ⚡ Current interests:
   * 3D modelling & animation using Blender (and Python ✨)
   * Japanese language, 日本語
