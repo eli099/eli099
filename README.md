@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a full-stack software engineer based in the UK
-- [My Portfolio](https://eliottmckenzie.dev)
+- 🔭 I’m a [full-stack software engineer](https://eliottmckenzie.dev) based in the UK
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: **hello@eliottmckenzie.dev**
 - 🗒 I'm planning a new version of **[Aesthetic Catalogue](https://github.com/eli099/Aesthetic-Catalogue)** (Django/React App)
