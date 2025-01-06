@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a [full-stack software engineer](https://eliottmckenzie.dev) based in the UK
-- 🌱 I’m currently learning:
-  * how to use **Python** in **[Blender](https://www.blender.org/)**
 - 📫 How to reach me: **hello@eliottmckenzie.dev**
-- 🗒 I'm planning a new version of **[Aesthetic Catalogue](https://github.com/eli099/Aesthetic-Catalogue)** - a Django/React app that allows users to find inspiration based on consumer design aesthetics
 - ⚡ Current interests:
-  * 3D modelling & animation using Blender (and Python ✨)
-  * Japanese language − 日本語を勉強しています
+  * 3D modelling & animation using Blender
+  * 日本語
