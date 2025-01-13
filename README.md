@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **hello@eliottmckenzie.dev**
 - ⚡ Current interests:
   * 3D modelling & animation using Blender
-  * 日本語
+  * 日本語（を習います）
