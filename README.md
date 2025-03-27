@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a [full-stack software engineer](https://eliottmckenzie.dev) based in the UK
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Three.js & Next.js
 - 📫 How to reach me: **hello@eliottmckenzie.dev**
 - ⚡ Current interests:
   * 3D modelling & animation using Blender
